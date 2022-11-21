@@ -1,0 +1,11 @@
+# este proyecto usa las siguientes tecnologías
+- tailwind
+- pretier
+- vite
+- vitest
+- cypress
+- slint
+- node
+- HTML
+- JavaScript
+- CSS
